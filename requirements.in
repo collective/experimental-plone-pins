@@ -1,0 +1,13 @@
+collective.ftw.upgrade
+collective.pdbpp
+collective.icecream
+dexterity.membrane
+plone
+plone.app.blocks
+plone.app.debugtoolbar
+pip-audit
+supervisor
+zodb
+zc.buildout
+z3c.jbot
+rich
