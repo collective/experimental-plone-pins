@@ -32,9 +32,9 @@ uv venv --allow-existing --seed --python "python${python_version}"
 source ".venv/bin/activate"
 pip install -U uv
 uv pip install -U -r ../requirements.in
-uv pip list --outdated > "$folder/outdated-requirements.txt"
-pip-audit > "$folder/pip-audit-report.txt"
-uv pip freeze > "$folder/constraints.txt"
-uvx --from plone.releaser manage constraints2versions -p $folder/versions.cfg
+uv pip list --outdated > "outdated-requirements.txt"
+pip-audit > "pip-audit-report.txt"
+uv pip freeze > "constraints.txt"
+uvx --from plone.releaser manage constraints2versions -p versions.cfg
 deactivate
 cd ..
