@@ -33,7 +33,7 @@ collective-recipe-backup==6.0.0
 collective-regenv==1.0.0
 collective-relationhelpers==1.6
 collective-taxonomy==4.0.0
-collective-workspace==3.0.0
+collective-workspace==4.0.0
 collective-z3cform-datagridfield==4.0.3
 colorama==0.4.6
 cryptography==50.0.2
@@ -103,7 +103,7 @@ pip==26.2.2
 pip-api==0.0.35
 pip-audit==2.10.1
 pip-requirements-parser==32.0.1
-platformdirs==4.13.5
+platformdirs==4.13.6
 plone==6.2.2
 plone-alterego==3.0.0
 plone-api==3.0.3
@@ -346,7 +346,7 @@ zope-ptresource==6.0
 zope-publisher==8.1
 zope-ramcache==4.0
 zope-schema==8.1
-zope-security==8.4
+zope-security==8.5
 zope-sendmail==7.3
 zope-sequencesort==6.0
 zope-site==6.0
