@@ -10,10 +10,9 @@ grpcio               1.84.0  1.85.0 wheel
 grpcio-tools         1.84.0  1.85.0 wheel
 missing              5.2     5.3    wheel
 persistence          5.4     5.5    wheel
-persistent           6.7     6.8    wheel
+persistent           6.7     6.9    wheel
 products-cmfcore     3.8     3.9    wheel
 protobuf             7.35.1  7.36.2 wheel
-pytest-plone         1.1.0   1.1.1  wheel
 z3c-pt               5.1     5.2    wheel
 z3c-unconfigure      3.0     4.0    wheel
 z3c-zcmlhook         3.0     3.1    wheel

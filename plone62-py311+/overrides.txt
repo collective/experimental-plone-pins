@@ -35,6 +35,7 @@ pygments==2.21.0
 pyjwt==2.15.1
 pyparsing==3.3.3
 pyproject-hooks==1.3.3
+pytest-plone==1.1.1
 python-dateutil==3.0.0
 python-dotenv==1.2.4
 pytz==2026.5
