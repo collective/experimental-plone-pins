@@ -1,0 +1,40 @@
+name: Build dependency pins
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v6
+        with:
+          enable-cache: true
+
+      - name: Generate dependency pins
+        run: make build
+
+      - name: Verify pip-audit reports are empty
+        run: test ! -s plone62-py311+/pip-audit-report.txt && test ! -s ploneedge-py311+/pip-audit-report.txt
+
+      - name: Verify generated files are committed
+        run: git diff --exit-code
