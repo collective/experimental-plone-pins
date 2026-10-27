@@ -113,7 +113,7 @@ missing==5.2
 mock==5.2.0
 more-itertools==11.2.1
 mr-developer==3.0.0
-msgpack==1.2.3
+msgpack==1.2.4
 multimapping==5.1
 multipart==2.0.1
 mxdev==5.4.1
