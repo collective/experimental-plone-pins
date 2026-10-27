@@ -217,7 +217,7 @@ products-membrane==8.0.0
 products-memcachedmanager==1.2.1
 products-mimetypesregistry==4.0.0
 products-plonepas==9.0.0
-products-pluggableauthservice==4.2.2
+products-pluggableauthservice==4.3
 products-pluginregistry==3.1
 products-portaltransforms==5.0.0
 products-pythonscripts==5.3.1
