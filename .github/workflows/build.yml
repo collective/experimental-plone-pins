@@ -30,6 +30,9 @@ jobs:
         with:
           enable-cache: true
 
+      - name: Install native build dependencies
+        run: sudo apt-get update && sudo apt-get install --yes build-essential libldap2-dev libsasl2-dev libssl-dev
+
       - name: Generate dependency pins
         run: make build
 
