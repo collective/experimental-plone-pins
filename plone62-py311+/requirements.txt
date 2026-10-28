@@ -415,7 +415,7 @@ types-pyyaml==6.0.12.20260906
 types-toml==0.10.8.20260518
 typing-extensions==4.16.0
 typing-inspection==0.4.4
-tzdata==2026.5
+tzdata==2026.6
 unidecode==1.4.0
 urllib3==2.8.0
 urllib3-secure-extra==0.1.0

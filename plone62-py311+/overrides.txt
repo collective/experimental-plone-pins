@@ -50,7 +50,7 @@ tomli==2.5.0
 trove-classifiers==2026.9.21.13
 types-pyyaml==6.0.12.20260906
 types-toml==0.10.8.20260518
-tzdata==2026.5
+tzdata==2026.6
 urllib3==2.8.0
 wcwidth==0.9.4
 wrapt==2.5.1
