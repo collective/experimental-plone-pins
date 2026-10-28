@@ -273,7 +273,7 @@ tomli-w==1.2.0
 transaction==5.1
 typing-extensions==4.16.0
 typing-inspection==0.4.4
-tzdata==2026.5
+tzdata==2026.6
 unidecode==1.4.0
 urllib3==2.8.0
 uv==0.13.6
