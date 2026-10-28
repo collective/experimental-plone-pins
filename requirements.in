@@ -6,6 +6,7 @@ collective.icecream
 collective.impersonate
 collective.lineage
 collective.lockdown
+collective.markdownplus
 collective.pdbpp
 collective.recipe.backup
 collective.regenv
