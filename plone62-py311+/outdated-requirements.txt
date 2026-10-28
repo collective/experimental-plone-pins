@@ -13,6 +13,7 @@ persistence                   5.4     5.5    wheel
 persistent                    6.7     6.9    wheel
 products-cmfcore              3.8     3.9    wheel
 products-pluggableauthservice 4.2.2   4.3    wheel
+products-pythonscripts        5.3.1   5.4    wheel
 protobuf                      7.35.1  7.36.2 wheel
 z3c-pt                        5.1     5.2    wheel
 z3c-unconfigure               3.0     4.0    wheel

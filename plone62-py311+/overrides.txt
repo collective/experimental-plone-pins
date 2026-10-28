@@ -56,6 +56,6 @@ wcwidth==0.9.4
 wrapt==2.5.1
 zc-recipe-egg==6.0.0
 zc-recipe-testrunner==5.0
-zc.buildout==6.0.1
+zc-buildout==6.0.2
 zipp==4.1.2
 zope-sendmail==7.3
