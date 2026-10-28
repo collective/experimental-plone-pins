@@ -1,0 +1,2 @@
+platformdirs==4.13.7
+fonttools==4.68.0
