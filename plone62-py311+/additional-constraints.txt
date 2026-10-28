@@ -1,2 +1,6 @@
-platformdirs==4.13.7
+collective-workspace==4.0.0
 fonttools==4.68.0
+grpcio-tools==1.84.0
+grpcio==1.84.0
+platformdirs==4.13.7
+protobuf==7.35.1

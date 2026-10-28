@@ -3,7 +3,6 @@ authencoding==6.1
 build==1.6.1
 certifi==2026.10.23
 charset-normalizer==3.5.2
-collective-workspace==4.0.0
 configparser==7.3.0
 coverage==7.17.0
 cryptography==50.0.2
@@ -11,8 +10,6 @@ cssselect==1.6.0
 docutils==0.22
 filelock==4.2.4
 gitpython==3.2.1
-grpcio-tools==1.84.0
-grpcio==1.84.0
 gunicorn==26.2.0
 idna==3.20
 imagesize==2.0.1
@@ -30,7 +27,6 @@ plone-exportimport==2.2.0
 plone-staticresources==3.0.9
 plone-versioncheck==2.0.2
 pluggy==1.7.0
-protobuf==7.35.1
 pycparser==3.12
 pygments==2.21.0
 pyjwt==2.15.1
