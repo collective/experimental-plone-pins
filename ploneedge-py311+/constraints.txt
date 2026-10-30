@@ -49,7 +49,7 @@ dexterity-membrane==3.0.2
 diazo==2.0.6
 documenttemplate==5.4
 docutils==0.23
-eea-facetednavigation==16.4
+eea-facetednavigation==16.5
 emailcompat32crlf==1.0.3
 executing==2.3.0
 experimental-gracefulblobmissing==2.0
@@ -124,7 +124,7 @@ plone-app-discussion==6.0.1
 plone-app-drafts==3.0.0
 plone-app-event==6.0.1
 plone-app-i18n==5.0.0
-plone-app-imagecropping==3.0.3
+plone-app-imagecropping==4.0.0
 plone-app-intid==3.0.0
 plone-app-iterate==7.0.0
 plone-app-layout==6.0.2

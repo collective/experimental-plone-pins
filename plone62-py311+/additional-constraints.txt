@@ -1,8 +1,10 @@
 collective-workspace==4.0.0
+eea-facetednavigation==16.5
 fonttools==4.68.0
 grpcio-tools==1.84.0
 grpcio==1.84.0
 platformdirs==4.14.0
+plone-app-imagecropping==4.0.0
 pydantic==2.14.2
 pydantic-core==2.50.2
 pydantic-settings==2.16.2
