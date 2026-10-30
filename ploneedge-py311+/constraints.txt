@@ -93,7 +93,7 @@ packaging==26.3
 pas-plugins-ldap==1.8.4
 pas-plugins-oidc==2.0.0
 passlib==1.7.4
-paste==3.10.1
+paste==3.11.0
 pastedeploy==3.1.0
 path==17.1.1
 path-py==12.5.0
@@ -106,7 +106,7 @@ pip==26.2.2
 pip-api==0.0.35
 pip-audit==2.10.1
 pip-requirements-parser==32.0.1
-platformdirs==4.13.7
+platformdirs==4.14.0
 plone==6.2.2
 plone-alterego==3.0.0
 plone-api==3.0.3
@@ -183,7 +183,7 @@ plone-reload==5.0.1
 plone-resource==4.0.0
 plone-resourceeditor==5.0.0
 plone-rest==6.0.0
-plone-restapi==10.0.4
+plone-restapi==10.1.0
 plone-rfc822==4.0.0
 plone-scale==5.1.0
 plone-schema==3.0.0
@@ -236,9 +236,9 @@ pyasn1==0.6.5
 pyasn1-modules==0.4.2
 pycparser==3.12
 pycryptodomex==3.24.1
-pydantic==2.14.1
-pydantic-core==2.50.1
-pydantic-settings==2.16.1
+pydantic==2.14.2
+pydantic-core==2.50.2
+pydantic-settings==2.16.2
 pydyf==0.13.0
 pygments==2.21.0
 pyjwkest==1.4.4
@@ -252,7 +252,7 @@ python-dotenv==1.2.4
 python-gettext==5.0
 python-ldap==3.4.8
 python-memcached==1.62
-pytz==2026.5
+pytz==2026.6
 pyyaml==6.0.3
 record==4.2
 referencing==0.37.0
