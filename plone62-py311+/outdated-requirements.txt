@@ -6,8 +6,8 @@ btrees                        6.4     6.5    wheel
 documenttemplate              5.3     5.4    wheel
 docutils                      0.22    0.23   wheel
 extensionclass                6.3     6.5    wheel
-grpcio                        1.84.0  1.85.0 wheel
-grpcio-tools                  1.84.0  1.85.0 wheel
+grpcio                        1.84.0  1.85.1 wheel
+grpcio-tools                  1.84.0  1.85.1 wheel
 missing                       5.2     5.3    wheel
 persistence                   5.4     5.5    wheel
 persistent                    6.7     6.9    wheel
