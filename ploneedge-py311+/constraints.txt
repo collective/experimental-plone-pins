@@ -32,6 +32,7 @@ collective-markdownplus==0.0.1
 collective-monkeypatcher==3.0.0
 collective-pdbpp==1.0.0a9
 collective-recipe-backup==6.0.0
+collective-recipe-supervisor==2.0.0
 collective-regenv==1.0.0
 collective-relationhelpers==1.6
 collective-taxonomy==4.0.0

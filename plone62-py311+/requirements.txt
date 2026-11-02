@@ -48,6 +48,7 @@ collective-monkeypatcher==3.0.0
 collective-pdbpp==1.0.0a9
 collective-recipe-backup==6.0.0
 collective-recipe-omelette==3.0.0
+collective-recipe-supervisor==2.0.0
 collective-recipe-template==3.0.0
 collective-recipe-vscode==0.1.9
 collective-regenv==1.0.0

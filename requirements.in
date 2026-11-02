@@ -9,6 +9,7 @@ collective.lockdown
 collective.markdownplus
 collective.pdbpp
 collective.recipe.backup
+collective.recipe.supervisor
 collective.regenv
 collective.relationhelpers
 collective.workspace
