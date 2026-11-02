@@ -29,6 +29,7 @@ plone.app.imagecropping
 plone.gallery
 plone.reload
 Products.MemcachedManager
+products-plonekeywordmanager
 sh
 supervisor
 weasyprint
