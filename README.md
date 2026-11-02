@@ -88,7 +88,7 @@ Adjust the path to match your Plone and Python versions.
 To regenerate the dependency pins locally, run:
 
 ```bash
-./build-plone-pins.sh
+make build
 ```
 
 The script creates isolated Python environments, resolves dependencies, and generates the corresponding constraints, Buildout versions, and audit reports.
