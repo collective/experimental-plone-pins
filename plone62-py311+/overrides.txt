@@ -8,7 +8,7 @@ coverage==7.17.0
 cryptography==50.0.2
 cssselect==1.6.0
 docutils==0.22
-filelock==4.2.6
+filelock==4.2.7
 gitpython==3.2.1
 gunicorn==26.2.0
 httplib2==0.32.1
@@ -24,9 +24,10 @@ msgpack==1.2.4
 multipart==2.0.1
 oauthlib==4.0.1
 paste==3.11.0
+pip==26.3
 plone-app-mosaic==4.2.0
 plone-exportimport==2.2.0
-plone-restapi==10.1.0
+plone-restapi==10.2.0
 plone-staticresources==3.0.9
 plone-versioncheck==2.0.2
 pluggy==1.7.0
