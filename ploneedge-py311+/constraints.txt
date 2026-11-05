@@ -23,6 +23,7 @@ click==8.5.0
 collective-collabora==1.1.0
 collective-collectionfilter==6.0.0
 collective-contentsections==2.3.0
+collective-easyform==5.0.2
 collective-ftw-upgrade==4.0.0
 collective-geolocationbehavior==1.7.2
 collective-honeypot==5.0.0
@@ -54,6 +55,7 @@ documenttemplate==5.4
 docutils==0.23
 eea-facetednavigation==16.5
 emailcompat32crlf==1.0.3
+et-xmlfile==2.0.0
 executing==2.3.0
 experimental-gracefulblobmissing==2.0
 extensionclass==6.5
@@ -97,6 +99,7 @@ node-ext-ldap==2.0.1
 node-ext-ugm==2.0.1
 odict==2.0.1
 oic==1.7.0
+openpyxl==3.1.5
 orderedmultidict==1.0.2
 outcome==1.3.0.post0
 overrides==7.7.0
@@ -244,6 +247,7 @@ products-sessions==6.2
 products-siteerrorlog==7.0
 products-standardcachemanagers==6.1
 products-statusmessages==6.0.0
+products-validation==4.0.1
 products-zcatalog==7.4
 products-zopeversioncontrol==5.1
 prompt-toolkit==3.0.53
