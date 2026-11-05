@@ -27,7 +27,7 @@ oauthlib==4.0.1
 paste==3.11.0
 pip==26.3
 plone-api==3.0.4
-plone-app-mosaic==4.2.0
+plone-app-mosaic==4.2.1
 plone-app-querystring==3.1.0
 plone-batching==3.0.2
 plone-event==3.0.1
