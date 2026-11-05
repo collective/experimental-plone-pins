@@ -103,11 +103,11 @@ review aids, not automatic upgrade instructions.
 When a package appears in either report:
 
 1. Check the package's release notes and, for security issues, the relevant vulnerability advisory.
-2. Confirm that the proposed version supports the targeted Plone and Python versions.
-3. Update `overrides.txt` if the package is already constrained by the official Plone constraints. Use `additional-constraints.txt` if it is not.
-4. Regenerate the pins with `make build`.
-5. Review the generated diff
-6. Open a pull request describing the issue, selected versions, test results, and any compatibility considerations.
+1. Confirm that the proposed version supports the targeted Plone and Python versions.
+1. Update `overrides.txt` if the package is already constrained by the official Plone constraints. Use `additional-constraints.txt` if it is not.
+1. Regenerate the pins with `make build`.
+1. Review the generated diff
+1. Open a pull request describing the issue, selected versions, test results, and any compatibility considerations.
 
 For security vulnerabilities, prioritize the advisory's severity and the availability of a compatible fixed release.
 If no compatible fix exists, document the risk and consider the issue in the context of the affected project until an appropriate update is available.

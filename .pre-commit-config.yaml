@@ -1,0 +1,39 @@
+# See https://pre-commit.com for more information
+# See https://pre-commit.com/hooks.html for more hooks
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v3.2.0
+    hooks:
+      - id: trailing-whitespace
+      - id: end-of-file-fixer
+      - id: check-yaml
+      - id: check-added-large-files
+
+  - repo: https://github.com/codespell-project/codespell
+    rev: v2.4.1
+    hooks:
+      - id: codespell
+        additional_dependencies:
+          - tomli
+
+  # Markdown formatter (like black for Markdown)
+  - repo: https://github.com/executablebooks/mdformat
+    rev: 1.0.0
+    hooks:
+      - id: mdformat
+        files: \.md$
+        additional_dependencies:
+          - mdformat-gfm # GitHub-flavored Markdown
+          - mdformat-frontmatter # YAML/TOML frontmatter
+          - mdformat-toc # automatic table of contents
+          - mdformat-admon # admonitions so it doesn't mess them up
+
+  - repo: local
+    hooks:
+      - id: canonical-requirements
+        name: Check canonical requirement names
+        entry: python scripts/check_requirements_names.py
+        language: python
+        additional_dependencies:
+          - packaging
+        files: ^(?:.*/)?(?:requirements|additional_requirements|constraints|versions|overrides)\..*$

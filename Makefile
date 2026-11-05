@@ -4,6 +4,10 @@
 build: ## Generate dependency pins and audit reports
 	./build-plone-pins.sh
 
+.PHONY: lint
+lint: ## Run linters
+	@uvx prek run --all-files
+
 .PHONY: clean
 clean: ## Clean up build artifacts
 	rm -rf plone*/.venv plone*/constraints.txt
