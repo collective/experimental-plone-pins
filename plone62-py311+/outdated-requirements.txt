@@ -1,6 +1,5 @@
 Package                       Version Latest Type
 ----------------------------- ------- ------ -----
-accesscontrol                 7.4     7.7    wheel
 acquisition                   6.2     6.4    wheel
 btrees                        6.4     6.5    wheel
 documenttemplate              5.3     5.4    wheel
@@ -21,8 +20,7 @@ products-pluggableauthservice 4.2.2   4.3    wheel
 products-pluginregistry       3.1     3.2    wheel
 products-pythonscripts        5.3.1   5.4    wheel
 protobuf                      7.35.1  7.36.2 wheel
-restrictedpython              8.5     9.0    wheel
-robotframework                7.5     7.5.1  wheel
+pydantic-core                 2.50.2  2.50.3 wheel
 z3c-pt                        5.1     5.2    wheel
 z3c-unconfigure               3.0     4.0    wheel
 z3c-zcmlhook                  3.0     3.1    wheel
