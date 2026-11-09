@@ -11,7 +11,8 @@ grpcio-tools                  1.85.0  1.85.1 wheel
 missing                       5.2     5.3    wheel
 persistence                   5.4     5.5    wheel
 persistent                    6.7     6.9    wheel
-plone-volto                   6.0.1   6.0.2  wheel
+plone-app-locales             7.0.4   7.0.5  wheel
+plone-volto                   6.0.1   6.1.0  wheel
 products-cmfcore              3.8     3.9    wheel
 products-cmfdifftool          5.0.0   5.0.1  wheel
 products-cmfeditions          5.0.0   5.0.1  wheel
@@ -29,6 +30,7 @@ zc-lockfile                   4.0     4.1    wheel
 zodb                          6.3     6.4    wheel
 zodbpickle                    4.4     4.5    wheel
 zope                          6.2     6.3    wheel
+zope-browserresource          6.0     6.1    wheel
 zope-container                7.2     7.3    wheel
 zope-contentprovider          7.0     7.1    wheel
 zope-hookable                 8.2     8.4    wheel
