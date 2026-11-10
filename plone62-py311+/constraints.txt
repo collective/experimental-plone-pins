@@ -311,7 +311,7 @@ products-cmfdifftool==5.0.1
 products-cmfdynamicviewfti==8.0.0
 products-cmfeditions==5.0.2
 products-cmfplacefulworkflow==4.0.0
-products-cmfplone==6.2.2
+products-cmfplone==6.2.3
 products-cmfuid==5.0
 products-daterecurringindex==4.0.0
 products-dcworkflow==4.0
