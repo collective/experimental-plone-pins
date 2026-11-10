@@ -1,6 +1,9 @@
+collective-auditlog
 collective-collabora
+collective-contactformprotection
 collective-contentsections
 collective-easyform
+collective-fingerpointing
 collective-ftw-upgrade
 collective-honeypot
 collective-icecream
@@ -34,6 +37,8 @@ plone-app-blocks
 plone-app-debugtoolbar
 plone-app-imagecropping
 plone-app-robotframework[debug,reload]
+plone-formwidget-hcaptcha
+plone-formwidget-recaptcha
 plone-gallery
 plone-reload
 products-memcachedmanager
