@@ -40,7 +40,7 @@ zope-hookable                 8.2     8.4    wheel
 zope-i18nmessageid            8.2     8.4    wheel
 zope-interface                8.5     8.7    wheel
 zope-processlifetime          4.0     4.1    wheel
-zope-proxy                    7.2     7.3    wheel
+zope-proxy                    7.2     7.4    wheel
 zope-ptresource               6.0     6.1    wheel
 zope-security                 8.3     8.5    wheel
 zope-testbrowser              8.0     8.1    wheel

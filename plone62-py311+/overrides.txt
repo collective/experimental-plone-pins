@@ -1,4 +1,4 @@
-accesscontrol==7.7
+accesscontrol==7.8
 anyio==4.16.0
 authencoding==6.1
 build==1.6.1

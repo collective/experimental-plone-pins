@@ -1,4 +1,4 @@
-accesscontrol==7.7
+accesscontrol==7.8
 acquisition==6.4
 annotated-types==0.8.0
 argcomplete==3.7.2
@@ -119,7 +119,7 @@ packaging==26.3
 pas-plugins-authomatic==2.0.0
 pas-plugins-headers==2.0.0
 pas-plugins-ldap==1.8.4
-pas-plugins-oidc==2.0.0
+pas-plugins-oidc==2.1.0
 passlib==1.7.4
 paste==3.11.0
 pastedeploy==3.1.0
@@ -324,6 +324,7 @@ sniffio==1.3.1
 sortedcontainers==2.4.0
 soupsieve==4.1
 sqlalchemy==2.1.8
+superlance==2.0.0
 supervisor==4.3.0
 tarjan==0.2.4
 tinycss2==1.5.1
@@ -415,7 +416,7 @@ zope-location==6.0
 zope-minmax==4.0
 zope-pagetemplate==6.1
 zope-processlifetime==4.1
-zope-proxy==7.3
+zope-proxy==7.4
 zope-ptresource==6.1
 zope-publisher==8.1
 zope-ramcache==4.0
