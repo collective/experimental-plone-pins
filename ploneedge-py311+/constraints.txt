@@ -181,7 +181,7 @@ plone-app-z3cform==5.0.2
 plone-autoform==3.0.1
 plone-autoinclude==3.0.0
 plone-base==4.0.2
-plone-batching==3.0.2
+plone-batching==3.0.3
 plone-behavior==3.0.1
 plone-browserlayer==4.0.0
 plone-cachepurging==4.0.0
@@ -216,7 +216,7 @@ plone-reload==5.0.1
 plone-resource==4.0.0
 plone-resourceeditor==5.0.0
 plone-rest==6.0.0
-plone-restapi==10.2.0
+plone-restapi==10.2.1
 plone-rfc822==4.0.0
 plone-scale==5.1.1
 plone-schema==3.0.0
@@ -239,9 +239,9 @@ products-btreefolder2==6.0
 products-cmfcore==3.9
 products-cmfdifftool==5.0.1
 products-cmfdynamicviewfti==8.0.0
-products-cmfeditions==5.0.1
+products-cmfeditions==5.0.2
 products-cmfplacefulworkflow==4.0.0
-products-cmfplone==6.2.2
+products-cmfplone==6.2.3
 products-cmfuid==5.0
 products-daterecurringindex==4.0.0
 products-dcworkflow==4.0
@@ -252,7 +252,7 @@ products-isurlinportal==4.0.0
 products-mailhost==6.1
 products-membrane==8.0.0
 products-memcachedmanager==1.2.1
-products-mimetypesregistry==4.0.1
+products-mimetypesregistry==4.0.2
 products-pdbdebugmode==3.0.0
 products-plonekeywordmanager==7.0.0
 products-plonepas==9.0.0
