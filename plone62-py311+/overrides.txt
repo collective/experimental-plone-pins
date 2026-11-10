@@ -30,6 +30,7 @@ pip==26.3
 plone-api==3.0.4
 plone-app-mosaic==4.2.1
 plone-app-querystring==3.1.1
+plone-app-upgrade==4.1.2
 plone-batching==3.0.3
 products-cmfdifftool==5.0.1
 products-cmfeditions==5.0.2
