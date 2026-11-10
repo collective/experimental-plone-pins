@@ -156,6 +156,7 @@ multimapping==5.1
 multipart==2.0.1
 mxdev==5.4.1
 natsort==8.4.0
+networkx==3.6.1
 nh3==0.3.7
 node==2.2.0
 node-ext-ldap==2.0.2

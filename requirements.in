@@ -27,6 +27,7 @@ experimental-gracefulblobmissing
 haufe-requestmonitoring
 huey
 iw-rejectanonymous
+networkx
 pas-plugins-authomatic
 pas-plugins-headers
 pas-plugins-ldap

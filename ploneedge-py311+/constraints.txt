@@ -104,6 +104,7 @@ msgpack==1.2.4
 multimapping==5.1
 multipart==2.0.1
 natsort==8.4.0
+networkx==3.6.1
 node==2.2.0
 node-ext-ldap==2.0.2
 node-ext-ugm==2.1.0
