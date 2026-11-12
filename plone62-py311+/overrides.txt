@@ -18,6 +18,7 @@ more-itertools==11.2.1
 multipart==2.0.1
 paste==3.11.0
 platformdirs==4.14.5
+plone-app-querystring==3.1.2
 plone-versioncheck==2.0.2
 pycparser==3.12
 pygments==2.21.0
@@ -28,6 +29,7 @@ robotframework==7.5.1
 simplejson==4.3.0
 soupsieve==4.1
 sphinxcontrib-jsmath==2.0.0
+types-pyyaml==6.0.12.20261111
 watchdog==7.1.0
 zc-buildout==6.1.0
 zc-recipe-egg==6.0.0

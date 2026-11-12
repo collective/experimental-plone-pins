@@ -16,7 +16,7 @@ pycryptodomex==3.24.2
 pydantic-core==2.50.4
 pydantic-settings==2.16.2
 pydantic==2.14.3
-pymdown-extensions==13.0.0
+pymdown-extensions==13.1
 yafowil-bootstrap==2.0.1
 yafowil-widget-array==2.0.1
 yafowil-widget-dict==2.0.2
