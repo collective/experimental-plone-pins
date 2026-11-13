@@ -100,6 +100,7 @@ markupsafe==3.0.4
 mdurl==0.1.2
 mdx-linkify==2.1
 missing==5.3
+mr-scripty==2.0.1
 msgpack==1.2.4
 multimapping==5.1
 multipart==2.0.1
