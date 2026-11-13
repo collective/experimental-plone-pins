@@ -1,4 +1,6 @@
 bda-cache==2.0.0
+collective-collabora==2.0.0
+collective-geolocationbehavior==2.0.0
 collective-workspace==4.0.0
 eea-facetednavigation==16.5
 fonttools==4.68.0
@@ -17,6 +19,7 @@ pydantic-core==2.50.4
 pydantic-settings==2.16.2
 pydantic==2.14.3
 pymdown-extensions==13.1
+sentry-sdk==2.75.0
 yafowil-bootstrap==2.0.1
 yafowil-widget-array==2.0.1
 yafowil-widget-dict==2.0.2

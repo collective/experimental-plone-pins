@@ -4,10 +4,10 @@ authencoding==6.1
 charset-normalizer==3.5.2
 click==8.5.1
 configparser==7.3.0
-coverage==7.17.2
+coverage==7.17.3
 cssselect==1.6.0
 filelock==4.2.10
-gunicorn==27.0.0
+gunicorn==27.0.1
 idna==3.20
 imagesize==2.0.1
 importlib-metadata==10.2.0
