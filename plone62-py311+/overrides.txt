@@ -1,6 +1,7 @@
 accesscontrol==7.8
 anyio==4.16.0
 authencoding==6.1
+chameleon==4.6.1
 charset-normalizer==3.5.2
 click==8.5.1
 configparser==7.3.0
@@ -27,9 +28,9 @@ readme-renderer==46.0
 robotframework-browser==21.0.0
 robotframework==7.5.1
 simplejson==4.3.0
-soupsieve==4.1
+soupsieve==4.1.1
 sphinxcontrib-jsmath==2.0.0
-types-pyyaml==6.0.12.20261111
+types-pyyaml==6.0.12.20261113
 watchdog==7.1.0
 zc-buildout==6.1.0
 zc-recipe-egg==6.0.0

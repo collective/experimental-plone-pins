@@ -35,6 +35,7 @@ pas-plugins-ldap
 pas-plugins-oidc
 pip-audit
 plone
+plonex
 plone-app-blocks
 plone-app-debugtoolbar
 plone-app-imagecropping
