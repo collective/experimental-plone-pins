@@ -2,6 +2,7 @@ bda-cache==2.0.0
 cloudpickle==3.1.2
 collective-collabora==2.0.0
 collective-geolocationbehavior==2.0.0
+collective-taxonomy==4.1.0
 collective-workspace==5.0.0
 doit==0.36.0
 eea-facetednavigation==16.5
@@ -24,6 +25,7 @@ pydantic==2.14.3
 pymdown-extensions==13.1
 rich-argparse==1.8.0
 sentry-sdk==2.75.0
+sqlalchemy==2.1.9
 types-requests==2.33.0.20261030
 types-setuptools==84.2.0.20261104
 yafowil-bootstrap==2.0.1
