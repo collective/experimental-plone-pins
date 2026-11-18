@@ -8,7 +8,7 @@ click==8.5.1
 configparser==7.3.0
 coverage==7.17.3
 cssselect==1.6.0
-filelock==4.2.11
+filelock==4.2.12
 gunicorn==27.0.1
 idna==3.20
 imagesize==2.0.1
@@ -18,9 +18,11 @@ markdown==3.11.3
 markupsafe==3.0.4
 more-itertools==11.2.1
 multipart==2.0.1
+nh3==0.3.8
 paste==3.11.0
-platformdirs==4.14.5
+platformdirs==4.14.7
 plone-app-querystring==3.1.2
+plone-app-robotframework==3.0.1
 plone-restapi==10.3.0
 plone-versioncheck==2.0.2
 pycparser==3.12
@@ -29,6 +31,7 @@ python-dateutil==4.0.0
 readme-renderer==46.0
 robotframework-browser==21.0.0
 robotframework==7.5.1
+selenium==4.53.0
 simplejson==4.3.0
 soupsieve==4.1.1
 sphinxcontrib-jsmath==2.0.0

@@ -7,8 +7,8 @@ docutils                      0.22.4  0.23   wheel
 doit                          0.36.0  0.37.0 wheel
 extensionclass                6.3     6.5    wheel
 five-localsitemanager         5.0     5.1    wheel
-grpcio                        1.85.0  1.85.1 wheel
-grpcio-tools                  1.85.0  1.85.1 wheel
+grpcio                        1.85.0  1.85.3 wheel
+grpcio-tools                  1.85.0  1.85.3 wheel
 missing                       5.2     5.3    wheel
 persistence                   5.4     5.5    wheel
 persistent                    6.7     6.9    wheel
@@ -24,7 +24,7 @@ zodb                          6.3     6.4    wheel
 zodbpickle                    4.4     4.5    wheel
 zope                          6.2     6.3    wheel
 zope-browserresource          6.0     6.1    wheel
-zope-container                7.2     7.3    wheel
+zope-container                7.2     7.4    wheel
 zope-contentprovider          7.0     7.1    wheel
 zope-hookable                 8.2     8.4    wheel
 zope-i18nmessageid            8.2     8.4    wheel
