@@ -54,5 +54,6 @@ superlance
 supervisor
 weasyprint
 z3c-jbot
+z3c-saconfig
 zc-buildout
 zodb

@@ -235,10 +235,10 @@ plone-theme==5.0.0
 plone-tiles==4.0.0
 plone-transformchain==4.0.0
 plone-uuid==3.0.0
-plone-volto==6.1.0
+plone-volto==6.2.1
 plone-z3cform==3.0.0
 plonetheme-barceloneta==4.1.2
-plonex==0.0.1a0
+plonex==0.0.1a1
 plumber==3.0.0
 products-btreefolder2==6.0
 products-cmfcore==3.9
@@ -375,6 +375,7 @@ z3c-jbot==3.1
 z3c-objpath==3.0
 z3c-pt==5.2
 z3c-relationfield==3.1
+z3c-saconfig==2.1
 z3c-unconfigure==4.0
 z3c-zcmlhook==3.1
 zc-buildout==6.1.0
@@ -436,6 +437,7 @@ zope-sequencesort==6.0
 zope-session==6.0
 zope-site==6.0
 zope-size==6.0
+zope-sqlalchemy==4.1
 zope-structuredtext==6.0
 zope-tal==6.0
 zope-tales==7.0
