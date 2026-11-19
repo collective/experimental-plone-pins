@@ -1,8 +1,8 @@
 bda-cache==2.0.0
-cloudpickle==3.1.2
+cloudpickle==3.1.3
 collective-collabora==2.0.0
 collective-geolocationbehavior==2.0.0
-collective-taxonomy==4.1.0
+collective-taxonomy==4.1.1
 collective-workspace==5.0.0
 doit==0.36.0
 eea-facetednavigation==16.5
@@ -15,10 +15,12 @@ node-ext-ugm==2.1.0
 node==2.2.0
 odict==2.0.1
 oic==1.7.0
+pas-plugins-authomatic==3.0.0
 pas-plugins-oidc==2.1.0
 plone-app-imagecropping==4.0.0
 plonex==0.0.1a1
 plumber==3.0.0
+products-membrane==9.0.0
 pycryptodomex==3.24.2
 pydantic-core==2.50.4
 pydantic-settings==2.16.3

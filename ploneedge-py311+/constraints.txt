@@ -21,7 +21,7 @@ cffi==2.1.1
 chameleon==4.6.1
 charset-normalizer==3.5.2
 click==8.5.1
-cloudpickle==3.1.2
+cloudpickle==3.1.3
 collective-auditlog==4.0.0
 collective-collabora==2.0.0
 collective-collectionfilter==6.0.0
@@ -45,7 +45,7 @@ collective-regenv==1.0.0
 collective-relationhelpers==1.6
 collective-revisionmanager==1.2.3
 collective-sentry==2.0.1
-collective-taxonomy==4.1.0
+collective-taxonomy==4.1.1
 collective-workspace==5.0.0
 collective-z3cform-datagridfield==4.0.3
 colorama==0.4.6
@@ -120,7 +120,7 @@ outcome==1.3.0.post0
 overrides==7.7.0
 packageurl-python==0.17.6
 packaging==26.3
-pas-plugins-authomatic==2.0.0
+pas-plugins-authomatic==3.0.0
 pas-plugins-headers==2.0.0
 pas-plugins-ldap==1.8.4
 pas-plugins-oidc==2.1.0
@@ -255,7 +255,7 @@ products-externalmethod==6.1
 products-genericsetup==5.2
 products-isurlinportal==4.0.0
 products-mailhost==6.1
-products-membrane==8.0.0
+products-membrane==9.0.0
 products-memcachedmanager==1.2.1
 products-mimetypesregistry==4.0.2
 products-pdbdebugmode==3.0.0
@@ -328,7 +328,7 @@ six==1.17.0
 slowlog==0.9
 sniffio==1.3.1
 sortedcontainers==2.4.0
-soupsieve==4.1.1
+soupsieve==4.1.2
 sqlalchemy==2.1.9
 superlance==2.0.0
 supervisor==4.3.0
@@ -414,7 +414,7 @@ zope-error==6.0
 zope-event==6.2
 zope-exceptions==6.0
 zope-filerepresentation==7.0
-zope-globalrequest==3.0
+zope-globalrequest==3.1
 zope-hookable==8.4
 zope-i18n==6.0
 zope-i18nmessageid==8.4
