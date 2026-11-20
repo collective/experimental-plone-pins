@@ -28,7 +28,7 @@ collective-collectionfilter==6.0.0
 collective-contactformprotection==2.0.0
 collective-contentsections==2.3.0
 collective-easyform==5.0.2
-collective-fingerpointing==1.8.3
+collective-fingerpointing==2.0.0
 collective-ftw-upgrade==4.0.0
 collective-geolocationbehavior==2.0.0
 collective-honeypot==5.0.0
@@ -157,7 +157,7 @@ plone-app-discussion==6.0.1
 plone-app-drafts==3.0.0
 plone-app-event==6.0.1
 plone-app-i18n==5.0.0
-plone-app-imagecropping==4.0.0
+plone-app-imagecropping==4.0.1
 plone-app-intid==3.0.0
 plone-app-iterate==7.0.0
 plone-app-layout==6.0.2
@@ -281,8 +281,8 @@ pyasn1==0.6.5
 pyasn1-modules==0.4.2
 pycparser==3.12
 pycryptodomex==3.24.2
-pydantic==2.14.3
-pydantic-core==2.50.4
+pydantic==2.14.4
+pydantic-core==2.50.5
 pydantic-settings==2.16.3
 pydyf==0.13.0
 pygments==2.21.0
@@ -437,13 +437,13 @@ zope-sequencesort==6.0
 zope-session==6.0
 zope-site==6.0
 zope-size==6.0
-zope-sqlalchemy==4.1
+zope-sqlalchemy==4.2
 zope-structuredtext==6.0
 zope-tal==6.0
 zope-tales==7.0
 zope-testbrowser==8.1
 zope-testing==6.2
-zope-testrunner==8.3
+zope-testrunner==8.4
 zope-traversing==6.0
 zope-viewlet==6.1
 zope2==4.0
