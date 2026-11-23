@@ -15,7 +15,7 @@ uv venv --allow-existing --seed --python "python${python_version}"
 source ".venv/bin/activate"
 pip install -U uv
 uv pip compile --no-header --no-annotate https://dist.plone.org/release/$plone_version-$version_suffix/constraints.txt ../requirements.in $overrides $constraints --output-file="requirements.txt"
-uv pip install -r "requirements.txt"
+uv pip install -U -r "requirements.txt"
 uv pip list --outdated > "outdated-requirements.txt"
 pip-audit > "pip-audit-report.txt"
 uv pip freeze > "constraints.txt"

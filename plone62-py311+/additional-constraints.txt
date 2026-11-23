@@ -7,6 +7,7 @@ collective-taxonomy==4.1.1
 collective-workspace==5.0.0
 doit==0.36.0
 eea-facetednavigation==16.5
+experimental-gracefulblobmissing==3.0.0
 fonttools==4.68.0
 grpcio-tools==1.85.0
 grpcio==1.85.0
@@ -16,7 +17,8 @@ node-ext-ugm==2.1.0
 node==2.2.0
 odict==2.0.1
 oic==1.7.0
-pas-plugins-authomatic==3.0.0
+passlib==1.9.5
+pas-plugins-authomatic==3.1.0
 pas-plugins-oidc==2.1.0
 plone-app-imagecropping==4.0.1
 plonex==0.0.1a1
@@ -26,13 +28,13 @@ pycryptodomex==3.24.2
 pydantic-core==2.50.5
 pydantic-settings==2.16.3
 pydantic==2.14.4
-pymdown-extensions==13.1
+pymdown-extensions==13.1.2
 rich-argparse==1.8.0
-sentry-sdk==2.75.0
+sentry-sdk==3.0.0
 sqlalchemy==2.1.9
 zope-sqlalchemy==4.2
 types-requests==2.33.0.20261030
-types-setuptools==84.2.0.20261104
+types-setuptools==84.2.0.20261122
 yafowil-bootstrap==2.0.1
 yafowil-widget-array==2.0.1
 yafowil-widget-dict==2.0.2
