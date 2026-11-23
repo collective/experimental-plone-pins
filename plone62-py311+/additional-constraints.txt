@@ -17,9 +17,9 @@ node-ext-ugm==2.1.0
 node==2.2.0
 odict==2.0.1
 oic==1.7.0
-passlib==1.9.5
 pas-plugins-authomatic==3.1.0
 pas-plugins-oidc==2.1.0
+passlib==1.9.5
 plone-app-imagecropping==4.0.1
 plonex==0.0.1a1
 plumber==3.0.0
@@ -32,7 +32,6 @@ pymdown-extensions==13.1.2
 rich-argparse==1.8.0
 sentry-sdk==3.0.0
 sqlalchemy==2.1.9
-zope-sqlalchemy==4.2
 types-requests==2.33.0.20261030
 types-setuptools==84.2.0.20261122
 yafowil-bootstrap==2.0.1
@@ -40,3 +39,4 @@ yafowil-widget-array==2.0.1
 yafowil-widget-dict==2.0.2
 yafowil-yaml==3.0.1
 yafowil==4.2.0
+zope-sqlalchemy==4.2

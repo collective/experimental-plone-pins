@@ -33,8 +33,8 @@ plone-restapi==10.3.0
 plone-versioncheck==2.0.2
 pycparser==3.12
 pygments==2.21.0
-pyyaml==6.0.4
 python-dateutil==4.0.0
+pyyaml==6.0.4
 readme-renderer==46.0
 robotframework-browser==21.0.0
 robotframework==7.5.1
@@ -44,9 +44,9 @@ soupsieve==4.1.3
 sphinxcontrib-jsmath==2.0.0
 types-pyyaml==6.0.12.20261122
 watchdog==7.1.1
+wcwidth==0.9.5
 zc-buildout==6.1.0
 zc-recipe-egg==6.0.0
 zc-recipe-testrunner==5.0
 zope-globalrequest==3.1
 zope-testrunner==8.4
-wcwidth==0.9.5
