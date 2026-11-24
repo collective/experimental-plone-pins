@@ -44,7 +44,7 @@ collective-recipe-supervisor==2.0.0
 collective-regenv==1.0.0
 collective-relationhelpers==1.6
 collective-revisionmanager==1.2.3
-collective-sentry==2.0.1
+collective-sentry==3.0.0
 collective-taxonomy==4.1.1
 collective-workspace==5.0.0
 collective-z3cform-datagridfield==4.0.3
@@ -71,15 +71,15 @@ fancycompleter==0.11.1
 feedparser==6.0.14
 feedparser-sgmllib==2.1.0
 file-read-backwards==3.2.0
-filelock==4.3.0
+filelock==4.3.1
 five-customerize==4.1
 five-intid==3.1.0
 five-localsitemanager==5.1
 fonttools==4.68.0
 furl==2.1.4
 future==1.0.0
-grpcio==1.85.0
-grpcio-tools==1.85.0
+grpcio==1.85.3
+grpcio-tools==1.85.3
 h11==0.16.0
 haufe-requestmonitoring==0.6.0
 huey==3.5.4
@@ -119,7 +119,7 @@ orderedmultidict==1.0.2
 outcome==1.3.0.post0
 overrides==7.7.0
 packageurl-python==0.17.6
-packaging==26.3
+packaging==26.4
 pas-plugins-authomatic==3.1.0
 pas-plugins-headers==2.0.0
 pas-plugins-ldap==1.8.4
@@ -309,7 +309,7 @@ rich==15.0.0
 rich-argparse==1.8.0
 robotframework==7.5.1
 robotframework-assertion-engine==5.0.1
-robotframework-browser==21.0.0
+robotframework-browser==21.1.0
 robotframework-debuglibrary==2.5.0
 robotframework-pythonlibcore==4.6.0
 robotframework-selenium2library==3.0.0

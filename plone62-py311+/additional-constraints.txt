@@ -3,14 +3,15 @@ cloudpickle==3.1.3
 collective-collabora==2.0.0
 collective-fingerpointing==2.0.0
 collective-geolocationbehavior==2.0.0
+collective-sentry==3.0.0
 collective-taxonomy==4.1.1
 collective-workspace==5.0.0
 doit==0.36.0
 eea-facetednavigation==16.5
 experimental-gracefulblobmissing==3.0.0
 fonttools==4.68.0
-grpcio-tools==1.85.0
-grpcio==1.85.0
+grpcio==1.85.3
+grpcio-tools==1.85.3
 jinja2==3.1.6
 node-ext-ldap==2.0.2
 node-ext-ugm==2.1.0
