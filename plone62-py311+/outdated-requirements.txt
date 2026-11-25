@@ -7,6 +7,8 @@ docutils                      0.22.4  0.23   wheel
 doit                          0.36.0  0.37.0 wheel
 extensionclass                6.3     6.5    wheel
 five-localsitemanager         5.0     5.1    wheel
+grpcio                        1.85.3  1.85.4 wheel
+grpcio-tools                  1.85.3  1.85.4 wheel
 missing                       5.2     5.3    wheel
 persistence                   5.4     5.6    wheel
 persistent                    6.7     6.9    wheel
