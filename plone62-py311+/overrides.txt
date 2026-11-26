@@ -20,7 +20,7 @@ idna==3.20
 imagesize==2.0.1
 importlib-metadata==10.2.0
 markdown-it-py==4.3.0
-markdown==3.11.3
+markdown==3.11.4
 markupsafe==3.0.4
 more-itertools==11.2.1
 multipart==2.0.1
@@ -47,6 +47,7 @@ sphinxcontrib-jsmath==2.0.0
 types-pyyaml==6.0.12.20261122
 watchdog==7.1.1
 wcwidth==0.9.5
+z3c-form==6.2
 zc-buildout==6.1.0
 zc-recipe-egg==6.0.0
 zc-recipe-testrunner==5.0

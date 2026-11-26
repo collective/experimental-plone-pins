@@ -24,7 +24,9 @@ zc-lockfile                   4.0     4.1    wheel
 zodb                          6.3     6.4    wheel
 zodbpickle                    4.4     4.6    wheel
 zope                          6.2     6.3    wheel
+zope-annotation               6.0     6.1    wheel
 zope-authentication           6.0     6.1    wheel
+zope-browsermenu              6.0     6.1    wheel
 zope-browserpage              6.0     6.1    wheel
 zope-browserresource          6.0     6.1    wheel
 zope-container                7.2     7.4    wheel
@@ -34,12 +36,14 @@ zope-exceptions               6.0     6.1    wheel
 zope-hookable                 8.2     8.4    wheel
 zope-i18nmessageid            8.2     8.4    wheel
 zope-interface                8.5     8.7    wheel
+zope-intid                    6.0     6.1    wheel
 zope-keyreference             7.0     7.1    wheel
 zope-lifecycleevent           6.0     6.1    wheel
 zope-location                 6.0     6.1    wheel
 zope-processlifetime          4.0     4.1    wheel
 zope-proxy                    7.2     7.4    wheel
 zope-ptresource               6.0     6.1    wheel
+zope-schema                   8.1     8.2    wheel
 zope-security                 8.3     8.5    wheel
 zope-size                     6.0     6.1    wheel
 zope-testbrowser              8.0     8.1    wheel
