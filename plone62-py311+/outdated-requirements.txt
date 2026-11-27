@@ -18,6 +18,7 @@ products-pluggableauthservice 4.2.2   4.3    wheel
 products-pluginregistry       3.1     3.2    wheel
 products-pythonscripts        5.3.1   5.4    wheel
 protobuf                      7.35.1  7.36.2 wheel
+z3c-objpath                   3.0     3.1    wheel
 z3c-pt                        5.1     5.2    wheel
 z3c-unconfigure               3.0     4.0    wheel
 zc-lockfile                   4.0     4.1    wheel
@@ -25,6 +26,7 @@ zodb                          6.3     6.4    wheel
 zodbpickle                    4.4     4.6    wheel
 zope                          6.2     6.3    wheel
 zope-annotation               6.0     6.1    wheel
+zope-app-locales              6.0     6.1    wheel
 zope-authentication           6.0     6.1    wheel
 zope-browsermenu              6.0     6.1    wheel
 zope-browserpage              6.0     6.1    wheel
